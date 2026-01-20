@@ -1,4 +1,4 @@
-# eBay Related Products Test Automation - TypeScript POM
+# eBay Related Products Test Automation
 
 ## Overview
 Professional test automation framework for eBay's Related Products feature using TypeScript and Page Object Model (POM) pattern. Tests verify that related products display correctly with maximum 6 items from the same category and price range.
